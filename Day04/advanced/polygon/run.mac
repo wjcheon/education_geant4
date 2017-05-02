@@ -1,0 +1,13 @@
+# verbose setting
+/control/verbose 2
+/run/verbose 2
+
+# general particle source
+
+/gps/particle proton
+/gps/energy 10 MeV
+/gps/position 0 0 -5 mm
+/gps/direction 0 0 1
+
+# run simulation
+/run/beamOn 10

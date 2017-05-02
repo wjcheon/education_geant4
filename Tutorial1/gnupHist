@@ -1,0 +1,15 @@
+clear
+reset
+
+set border 3
+unset key
+set xrange[0:20]
+set xtics 5
+
+set title "Gamma KE spectrum"
+set xlabel "Energy [MeV]"
+set ylabel "Counts"
+
+binwidth=0.1
+bin(x,width)=width*floor(x/width)
+plot "KE.out" using (bin($1,binwidth)):(1.0) smooth freq with boxes

@@ -1,0 +1,11 @@
+/control/verbose 2
+/run/verbose 2
+#/tracking/verbose 2
+
+/gps/particle gamma
+/gps/pos/type Point
+/gps/pos/centre 0 0 -12 cm
+/gps/direction 0 0 1
+/gps/energy 1 MeV
+
+/run/beamOn 5

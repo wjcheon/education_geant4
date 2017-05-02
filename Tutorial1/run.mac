@@ -1,0 +1,14 @@
+# Macro file: run.mac
+
+/run/verbose 1
+
+# Tutorial1
+# Change tracking verbose 0 and 2 as necessary.
+/tracking/verbose 0
+
+# Tutorial1 #8
+# Make a 80 MeV proton z-direction pencil beam at (0, 0, 0)
+
+# Tutorial1
+# Change the number of primaries as necessary.
+/run/beamOn 100

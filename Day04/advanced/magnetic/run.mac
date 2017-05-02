@@ -1,0 +1,10 @@
+/gps/particle proton
+/gps/pos/type Point
+/gps/pos/centre 0 -30 0 cm
+/gps/direction 0 1 0 
+/gps/energy 100.0 MeV 
+
+# HandsOn 4-2 
+# Make Global Field
+
+/run/beamOn 1

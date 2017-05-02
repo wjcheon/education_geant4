@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+f948fb04ce6f7bcd1f49a78bb8379a05 CMakeFiles/Polygon

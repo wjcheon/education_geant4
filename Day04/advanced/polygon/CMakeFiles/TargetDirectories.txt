@@ -1,0 +1,2 @@
+/home/geant4/Geant4/itrs_examples/Day04/advanced/polygon/CMakeFiles/Polygon.dir
+/home/geant4/Geant4/itrs_examples/Day04/advanced/polygon/CMakeFiles/examplePolygon.dir
